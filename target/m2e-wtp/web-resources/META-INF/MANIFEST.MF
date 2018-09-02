@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: website Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 姜云瀚
+Implementation-Vendor-Id: com.un-net
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
